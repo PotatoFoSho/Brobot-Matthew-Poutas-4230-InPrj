@@ -1,0 +1,39 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.051 seconds
+desktop: 1280x1024 60Hz; virtual: 3840x1024 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\Unity\Projects\SE2_MP_IND_PROJ\Platforming101_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 24e74 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.331679 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 777.
+Total: 0.278313 ms (FindLiveObjects: 0.036406 ms CreateObjectMapping: 0.021061 ms MarkObjects: 0.216031 ms  DeleteObjects: 0.004513 ms)
+
+Gravity: -32  Jump Velocity: 16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Got it
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
